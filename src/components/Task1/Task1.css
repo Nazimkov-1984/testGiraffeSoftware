@@ -1,0 +1,25 @@
+.containerProducts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gridContainer {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #c1b667;
+  border-radius: 4px;
+  padding: 6px 8px;
+  margin-right: 20px;
+}
+.filter {
+  width: 100%;
+  display: flex;
+  padding: 20px 0;
+}
+.filterTitle {
+  margin-right: 20px;
+}
+.selectFilter {
+  padding: 3px 6px;
+  border-radius: 4px;
+}
